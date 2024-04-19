@@ -9,8 +9,8 @@ This project provides an automated test solution using Playwright with JavaScrip
 * Playwright
   
 # Installation
-*Clone the Repository
-*git clone https://github.com/Wilfred-Friday/apichallenge.git
+Clone the Repository
+git clone https://github.com/Wilfred-Friday/apichallenge.git
 
 # Run All Tests
 To run all the tests, execute the following command:
