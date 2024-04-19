@@ -18,4 +18,4 @@ To run all the tests, execute the following command:
 
 # Test Reports
 After running the tests, you can generate test reports, using the following command:
-*npx playwright test --reporter=list
+npx playwright test --reporter=list
